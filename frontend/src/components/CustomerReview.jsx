@@ -14,7 +14,7 @@ const CustomerReviews = () => {
       source: "Google Reviews",
     },
     {
-      name: "Yashwini",
+      name: "Yashswini",
       text: "I've been using Andes for a while now and I'm very happy with their service",
       rating: 4,
       imageUrl: customer2,

@@ -62,7 +62,7 @@ const LandingPage = () => {
               cleaning within
             </h1>
             <h1 className="text-4xl sm:text-4xl md:text-6xl font-bold md:mb-10 mb-2 leading-tight">
-              24h delivery
+              24Hr delivery
             </h1>
 
             {/* Typewriter text with fixed height and left alignment */}
@@ -117,7 +117,7 @@ const LandingPage = () => {
                       Download Andes
                     </p>
                     <p className="text-xs md:text-sm text-black">
-                      from App Store
+                      from App Store (Coming Soon)
                     </p>
                   </div>
                 </a>
@@ -141,8 +141,8 @@ const LandingPage = () => {
         <div className="flex flex-col md:flex-row items-start md:items-center justify-between text-center md:text-left">
           {/* Title and Subtitle Section */}
           <div className="mb-4 md:mb-0 md:w-1/2 md:ml-36">
-            <h1 className="text-xl md:text-4xl font-bold mb-2 text-yellow-300">
-              The #1 Smart Laundry Service
+            <h1 className="text-xl md:text-3xl font-bold mb-2 text-yellow-300">
+               #1 in India's fastest Laundry Delivery App
             </h1>
             <p className="text-sm">
               in categories Dry cleaner, Laundry service and Laundrette{" "}

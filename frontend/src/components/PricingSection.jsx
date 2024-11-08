@@ -20,7 +20,7 @@ const PricingSection = () => {
                 className="w-full h-full object-contain"
               />
             </div>
-            <p className="text-lg font-semibold">Free 24h delivery</p>
+            <p className="text-lg font-semibold">Free 24Hr delivery</p>
           </div>
 
           {/* Feature 2 */}

@@ -19,7 +19,7 @@ const MyFooter = () => {
             <Link to="/about" className="hover:text-blue-400">
               About us
             </Link>
-            <Link to="/other" className="hover:text-blue-400">
+            <Link to="/terms-conditions" className="hover:text-blue-400">
               Terms & Conditions
             </Link>
             <Link to="/other" className="hover:text-blue-400">

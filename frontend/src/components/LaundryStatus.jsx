@@ -7,7 +7,7 @@ const LaundryStatus = () => {
       {/* Left Section */}
       <div className="md:w-1/2 pr-6 flex flex-col justify-center">
         <h2 className="text-xl text-gray-500 uppercase mb-2">
-          24H TURNAROUND TIME
+          24Hr TURNAROUND TIME
         </h2>
         <h1 className="text-3xl font-semibold md:text-4xl md:font-bold mb-6">
           No need to plan in advance

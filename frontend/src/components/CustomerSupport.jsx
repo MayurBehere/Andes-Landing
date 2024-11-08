@@ -16,7 +16,7 @@ const CustomerSupport = () => {
       {/* Left Section */}
       <div className="md:w-1/2 md:pl-32 flex flex-col justify-center">
         <h2 className="text-xl text-gray-500 uppercase mb-2">
-          24H CUSTOMER SUPPORT
+          24Hr CUSTOMER SUPPORT
         </h2>
         <h1 className="text-3xl font-semibold md:text-4xl md:font-bold mb-6">
           We're here to help you

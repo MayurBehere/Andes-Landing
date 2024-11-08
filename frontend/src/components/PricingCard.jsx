@@ -2,7 +2,10 @@
 // src/components/PricingCard.js
 
 const PricingCard = ({ icon, title, description, actualPrice, fakePrice, linkText, linkUrl }) => {
-  const discountPercentage = Math.round(((fakePrice - actualPrice) / fakePrice) * 100);
+  // Extract numeric value from actualPrice string
+  const numericActualPrice = parseFloat(actualPrice);
+
+  const discountPercentage = Math.round(((fakePrice - numericActualPrice) / fakePrice) * 100);
 
   return (
     <div className="bg-white shadow-md rounded-lg p-6">

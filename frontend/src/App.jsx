@@ -42,6 +42,7 @@ function App() {
             <Route path="/andes-assured" element={<AndesAssured />} />
             <Route path="/other" element={<Other />} />
             <Route path="/privacypolicy" element={<Other />} />
+            <Route path="/terms-conditions" element={<Other />} />
             <Route path="*" element={<h1>404 Not Found</h1>} />
           </Routes>
         </div>

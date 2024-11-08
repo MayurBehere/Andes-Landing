@@ -22,7 +22,7 @@ const QuickCleanFresh = () => {
           Quick. Clean. Fresh.
         </h2>
         <p className="text-lg md:text-xl text-white mb-10">
-          Your laundry delivered in 24h
+          Your laundry delivered in 24Hr
         </p>
         <button
           onClick={handleButtonClick}

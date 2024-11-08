@@ -32,7 +32,7 @@ const Services = () => {
           price="₹59/Kg"
           description="For everyday laundry, bedsheets and towels."
           includes={["WASH", "TUMBLE-DRY"]}
-          serviceTime="24H*"
+          serviceTime="24Hr*"
           returned="IN A LAUNDRY/ANDES BAG"
           icon="🧺"
         />
@@ -41,7 +41,7 @@ const Services = () => {
           price="₹79/Kg"
           description="For everyday laundry that requires ironing."
           includes={["WASH", "TUMBLE-DRY", "IRONING"]}
-          serviceTime="48h"
+          serviceTime="48Hr"
           returned="ON HANGERS"
           icon="👚"
         />
@@ -50,7 +50,7 @@ const Services = () => {
           price="₹209/Kg"
           description="For delicate items and fabrics."
           includes={["DRY CLEANING", "IRONING"]}
-          serviceTime="48h"
+          serviceTime="48Hr"
           returned="ON HANGERS"
           icon="🧼"
         />

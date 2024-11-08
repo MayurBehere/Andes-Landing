@@ -13,7 +13,7 @@ const CustomerStories = () => {
       image: customer1,
     },
     {
-      title: "Yashwini's Story",
+      title: "Yashswini's Story",
       tags: ["Great Service", "Affordable Prices", "Highly Satisfied"],
       description:
         "I've been using Andes for a while now and I'm very happy with their service.",
